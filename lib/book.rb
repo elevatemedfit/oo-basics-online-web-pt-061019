@@ -19,5 +19,5 @@ class Book
   end
 
 end
-book1 = Book.new("And Then There Were None")
-book1.title
+book = Book.new("And Then There Were None")
+book.title
