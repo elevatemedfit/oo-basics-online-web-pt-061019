@@ -20,3 +20,4 @@ class Book
 
 end
 book1 = Book.new("And Then There Were None")
+book1.title
