@@ -19,4 +19,4 @@ class Book
   end
 
 end
-title = Book.new("And Then There Were None")
+book1 = Book.new("And Then There Were None")
