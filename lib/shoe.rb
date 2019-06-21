@@ -23,7 +23,7 @@ class Shoe
   def material
     @material
   end
-  def condition=(condition)
+  def condition=("new")
     @condition = condition
   end
   def condition
@@ -33,4 +33,3 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 end# Make your shoe class here!
-shoe.condition="new"
